@@ -32,7 +32,7 @@ const App: React.FC = () => {
     <div className="min-h-screen bg-gray-100">
       <header className="bg-primary text-gray-700 py-6 mb-8">
         <div className="container mx-auto px-4">
-          <h1 className="text-3xl font-bold">Weather AI Assistant</h1>
+          <h1 className="text-3xl font-bold">🌦️ Weather AI Assistant</h1>
           <p className="mt-2">Get current weather with AI-powered insights</p>
         </div>
       </header>
