@@ -3,6 +3,12 @@
 - Weather AI Assistant is a web application that provides `real-time weather data` and `AI-powered insights`.
 - It fetches weather information from `OpenWeather` and uses `Gemini AI` to interpret the data, offering a user-friendly experience for understanding current weather conditions.
 
+## 🎬 Demonstration
+
+https://github.com/user-attachments/assets/96bd0485-8a21-4202-bfef-680b5ca68100
+
+<br />
+
 ## ✨ Features
 
 - 🌍 **Real-Time Weather Data**: Get up-to-date weather information for any location.
